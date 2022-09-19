@@ -1,0 +1,43 @@
+{
+"coord": {
+"lon": -46.6361,
+"lat": -23.5475
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 297.14,
+"feels_like": 297.06,
+"temp_min": 294.51,
+"temp_max": 300.09,
+"pressure": 1014,
+"humidity": 56
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.63,
+"deg": 150
+},
+"clouds": {
+"all": 0
+},
+"dt": 1663616243,
+"sys": {
+"type": 1,
+"id": 8394,
+"country": "BR",
+"sunrise": 1663577960,
+"sunset": 1663621291
+},
+"timezone": -10800,
+"id": 3448439,
+"name": "São Paulo",
+"cod": 200
+}
